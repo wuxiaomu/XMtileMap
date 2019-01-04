@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMtileMap", "XMtileMap.csproj", "{E307A055-2EE6-470C-B102-E45D84E92E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMtileMap.Editor", "XMtileMap.Editor.csproj", "{27DC3551-C6AF-B062-A2D9-FD6C64A69AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E307A055-2EE6-470C-B102-E45D84E92E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E307A055-2EE6-470C-B102-E45D84E92E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E307A055-2EE6-470C-B102-E45D84E92E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E307A055-2EE6-470C-B102-E45D84E92E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DC3551-C6AF-B062-A2D9-FD6C64A69AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DC3551-C6AF-B062-A2D9-FD6C64A69AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DC3551-C6AF-B062-A2D9-FD6C64A69AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DC3551-C6AF-B062-A2D9-FD6C64A69AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
