@@ -1,2 +1,2 @@
 # XMtileMap
-Map Editor
+Map editor for Unity Tilemap
